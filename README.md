@@ -1,12 +1,12 @@
 # Hi, I'm Janzen 👋
 
-I build software and enjoy figuring out how things work. My focus is software development and AI-native development: I use AI agents throughout development to explore code, implement changes, and verify results.
+I enjoy building software and figuring out how things work. These days, I focus on software development and AI-native development. I use AI agents to explore code, implement changes, and verify results, and I'm always learning along the way.
 
 ## What I've worked on
 
-- Web and enterprise applications across frontend, backend, and database layers.
-- API integrations, feature development, debugging, automated testing, and release validation.
-- Process automation with UiPath and Power Automate as part of my earlier work.
+I've built web and enterprise applications, working across the frontend, backend, and database. That includes connecting APIs, adding features, investigating bugs, writing tests, and getting changes ready for release.
+
+Earlier in my career, I also worked on process automation with UiPath and Power Automate.
 
 ## Languages and tools
 
@@ -17,10 +17,12 @@ I build software and enjoy figuring out how things work. My focus is software de
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-I also work with AI coding agents.
+AI coding agents are part of my everyday development workflow too.
 
-Outside development, I enjoy gaming, playing musical instruments, and learning about whatever catches my interest.
+## A little about me
 
-Happy to connect about software projects, AI-native development, and collaboration.
+Away from code, I'm usually gaming, playing musical instruments, or getting curious about something that has nothing to do with work.
+
+If you're working on a software project, exploring AI-native development, or interested in collaborating, I'd be happy to connect.
 
 [Portfolio](https://janzenaguila.netlify.app/) · [Repositories](https://github.com/JanzenAguila?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/janzenaguila/)
