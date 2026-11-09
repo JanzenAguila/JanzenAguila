@@ -1,34 +1,26 @@
-# Hi, I'm Janzen 👋
+# Hi, I’m Janzen 👋
 
-I'm **Janzen Christian Aguila**, a software engineer in the Philippines. I build web and enterprise applications, enjoy figuring out how things work, and like learning things both inside and outside of software.
+I build software and enjoy figuring out how things work. My focus is software development and AI-native development: I use AI agents throughout development to explore code, implement changes, and verify results.
 
-Currently, I'm an **AI-Native Software Engineer at Asurion**, building enterprise applications with Java, React, Vite, and SQL. I use AI agents to explore code and support development, alongside code reviews, API testing, and release validation.
+## What I’ve worked on
 
-[Portfolio](https://janzenaguila.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/janzenaguila/)
+- Web and enterprise applications across frontend, backend, and database layers.
+- API integrations, feature development, debugging, automated testing, and release validation.
+- Process automation with UiPath and Power Automate as part of my earlier work.
 
-## What I've worked on
+## Languages and tools
 
-- **Asurion:** Enterprise applications across the UI, API, and database layers.
-- **Oracle NetSuite:** SuiteApp development, customer issue investigation, automated testing, and release validation.
-- **EY GDS Philippines:** Process automation and AI solutions using UiPath, Power Automate, and API integrations.
-- **GMA New Media:** Backend modules and UI improvements for web applications.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-My automation experience helped me realize how much I enjoy hands-on programming. I'm continuing to grow in software development, asking questions, reading documentation, and learning from teammates along the way.
+I also work with AI coding agents.
 
-## Tools I've used
+Outside development, I enjoy gaming, playing musical instruments, and learning about whatever catches my interest.
 
-- **Web and backend:** Java, JavaScript, React, Next.js, Node.js, Python, PHP, SQL
-- **Automation and integrations:** UiPath, Power Automate, SuiteScript, REST APIs, GraphQL
-- **Testing:** Jest, Jasmine, Playwright, end-to-end testing
+Happy to connect about software projects, AI-native development, and collaboration.
 
-## A few things I've built
-
-- **[My portfolio](https://github.com/JanzenAguila/netlify-portfolio):** A Next.js site with my work history, projects, and a chat assistant that answers questions about my profile.
-- **TextSimEngine:** A web-based engine for creating text-based games without significant coding, built for my university Special Problems course.
-- **MakiBIS:** Contributed backend features and frontend integration to the Makiling Biodiversity Information System during my UPLB internship.
-
-## Beyond the keyboard
-
-I'm a BS Computer Science graduate of the **University of the Philippines Los Baños**. Outside work, you'll usually find me gaming, playing musical instruments, watching anime or movies, or talking with friends about whatever caught our interest.
-
-I'm open to conversations about software projects and collaboration. You can reach me through [LinkedIn](https://www.linkedin.com/in/janzenaguila/) or my [portfolio](https://janzenaguila.netlify.app/).
+[Portfolio](https://janzenaguila.netlify.app/) · [Repositories](https://github.com/JanzenAguila?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/janzenaguila/)
