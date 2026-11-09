@@ -1,8 +1,8 @@
-# Hi, I’m Janzen 👋
+# Hi, I'm Janzen 👋
 
 I build software and enjoy figuring out how things work. My focus is software development and AI-native development: I use AI agents throughout development to explore code, implement changes, and verify results.
 
-## What I’ve worked on
+## What I've worked on
 
 - Web and enterprise applications across frontend, backend, and database layers.
 - API integrations, feature development, debugging, automated testing, and release validation.
